@@ -14,7 +14,7 @@
 
 | # | Project Name | Tools | Περιγραφή | Link |
 | :-- | :--- | :--- | :--- | :--- |
-| 1 | **Retail Analysis** | Python, Pandas | Ανάλυση αγοραστικής συμπεριφοράς και τάσεων. | [📂 Repo](.https://github.com/papastergiousp-maker/Python_Financial_Data_Analytics/blob/main/Retail_Analysis/FINANCE_LIQUOR_SALES.ipynb)|
+| 1 | **Retail Analysis** | Python, Pandas | Ανάλυση αγοραστικής συμπεριφοράς και τάσεων. | [📂 Repo](https://github.com/papastergiousp-maker/Python_Financial_Data_Analytics/blob/main/Retail_Analysis/FINANCE_LIQUOR_SALES.ipynb)|
 | 2 | **Betting Risk Analysis** | Python, Statistics | Υπολογισμός ρίσκου και πιθανοτήτων. | [📂 Repo](./Betting_Risk_Analysis) |
 | 3 | **Revenue Analysis** | SQL, Python | Ανάλυση εσόδων και κερδοφορίας. | [📂 Repo](./Revenue_Analysis) |
 | 4 | **Stock Market (MSFT)** | Python, Finance | Ανάλυση μετοχής Microsoft (Financial Data). | [📂 Repo](./MICROSOFTSTOCK.ipynb) |
